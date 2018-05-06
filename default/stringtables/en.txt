@@ -6248,6 +6248,9 @@ Hull
 ATTACK
 Total Weapon Damage
 
+PRODUCTION_COST
+Production Cost
+
 OBJECT_TYPE
 Type
 
